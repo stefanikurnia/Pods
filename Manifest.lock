@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyWave (1.1.0)
+
+DEPENDENCIES:
+  - SwiftyWave (~> 1.1.0)
+
+SPEC REPOS:
+  trunk:
+    - SwiftyWave
+
+SPEC CHECKSUMS:
+  SwiftyWave: 848e6d774d45c82574757d9f991735380628c36d
+
+PODFILE CHECKSUM: cb8a85f88e0a925d601ae78c42c35dc2f0432f5a
+
+COCOAPODS: 1.8.3

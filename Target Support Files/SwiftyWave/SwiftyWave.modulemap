@@ -1,0 +1,6 @@
+framework module SwiftyWave {
+  umbrella header "SwiftyWave-umbrella.h"
+
+  export *
+  module * { export * }
+}
